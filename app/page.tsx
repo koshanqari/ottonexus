@@ -76,7 +76,6 @@ export default function Home() {
       <div className="max-w-md w-full">
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold text-[#D4AF37] mb-2">Golden Lotus</h1>
-          <p className="text-[#F8F9FA] text-lg">OttoNexus EMS - Alpha prototype</p>
         </div>
 
         {/* Login Type Toggle */}
