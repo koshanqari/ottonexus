@@ -315,7 +315,7 @@ export default function GuestDashboard() {
                         : 'bg-[#0B1220] border border-green-600 text-green-400 hover:bg-green-600 hover:text-white'
                     }`}
                   >
-                    ✓ Yes, I'll attend
+                    ✓ Yes, I&apos;ll attend
                   </button>
                   <button
                     onClick={() => setRsvp('maybe')}
@@ -335,7 +335,7 @@ export default function GuestDashboard() {
                         : 'bg-[#0B1220] border border-red-600 text-red-400 hover:bg-red-600 hover:text-white'
                     }`}
                   >
-                    ✗ No, I can't attend
+                    ✗ No, I can&apos;t attend
                   </button>
                 </div>
                 <p className="text-[#ADB5BD] text-sm">

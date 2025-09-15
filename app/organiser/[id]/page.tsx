@@ -23,6 +23,7 @@ interface Guest {
   company_id: string;
   kyc_file: string;
   status: string;
+  rsvp: string;
 }
 
 export default function EventDashboard() {
