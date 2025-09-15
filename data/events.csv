@@ -1,0 +1,16 @@
+event_id,client_name,event_title,date,time,venue,description
+evt_001,Kotak Bank,Annual Meet 2025,2025-12-15,10:00 AM,Mumbai Convention Center,Annual corporate gathering
+evt_002,Reliance Industries,Product Launch Event,2025-11-20,2:00 PM,Taj Palace Hotel,New product showcase and networking
+evt_003,TCS,Technology Summit,2025-10-30,9:00 AM,ITC Maratha,Technology conference and workshops
+evt_004,Kotak Bank,Quarterly Review Q4,2025-01-25,3:00 PM,Kotak Mahindra Bank Tower,Quarterly business review and planning
+evt_005,ICICI Bank,Digital Banking Workshop,2025-02-10,10:30 AM,ICICI Bank Training Center,Digital transformation workshop
+evt_006,HDFC Bank,Customer Appreciation Day,2025-02-28,6:00 PM,The Leela Mumbai,Customer relationship building event
+evt_007,Kotak Bank,Leadership Summit,2025-03-15,9:00 AM,Grand Hyatt Mumbai,Leadership development and networking
+evt_008,ICICI Bank,Innovation Conference,2025-03-22,2:00 PM,Convention Center Delhi,Fintech innovation showcase
+evt_009,HDFC Bank,Annual Awards Ceremony,2025-04-05,7:00 PM,Taj Lands End Mumbai,Employee recognition and awards
+evt_010,Kotak Bank,Client Meet & Greet,2025-04-20,4:00 PM,Four Seasons Hotel,Client relationship building
+evt_011,ICICI Bank,Women's Leadership Forum,2025-05-08,10:00 AM,The Oberoi Delhi,Women empowerment and leadership
+evt_012,HDFC Bank,Technology Innovation Day,2025-05-25,11:00 AM,HDFC Bank Corporate Office,Technology showcase and demos
+evt_013,Kotak Bank,Investment Advisory Seminar,2025-06-12,2:30 PM,Trident Nariman Point,Investment strategies and market insights
+evt_014,ICICI Bank,Digital Security Workshop,2025-06-28,10:00 AM,ICICI Bank Gurgaon,Cybersecurity awareness and training
+evt_015,HDFC Bank,Green Finance Summit,2025-07-15,9:30 AM,The St. Regis Mumbai,Sustainable finance and ESG initiatives

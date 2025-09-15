@@ -1,0 +1,4 @@
+company_id,company_name,contact_email,contact_phone,address,settings,created_at
+comp_001,Kotak Bank,admin@kotak.com,+91-9876543210,Mumbai Maharashtra,"{""kyc_required"":true,""max_guests"":100}",2025-01-15
+comp_002,ICICI Bank,admin@icici.com,+91-9876543211,Delhi India,"{""kyc_required"":true,""max_guests"":150}",2025-01-16
+comp_003,HDFC Bank,admin@hdfc.com,+91-9876543212,Bangalore Karnataka,"{""kyc_required"":false,""max_guests"":200}",2025-01-17
